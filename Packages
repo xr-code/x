@@ -1,0 +1,14 @@
+Package: com.xrcode.safeshutdown
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XRCODE 
+Installed-Size: 16
+Depends: -
+Filename: /safeshutdown.deb
+Size: 9327236
+MD5sum: 06A71B14C2E6FC5585D323D2CC118340
+SHA1: 35C3FE1F7A59245D97C34806A3A4AC404CA31E07
+SHS256: 30AC7C322AF44E27F627BB7EB6B65B74D2EE85A41B5CE0F07F895D2E102A1126
+Section: Tweaks
+Description: -
+
